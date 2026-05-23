@@ -25,7 +25,6 @@ InHive — кроссплатформенный VPN-клиент. Этот ре�
 
 ## 🔗 Связанные репозитории
 
-- [twilgate/inhive-app](https://github.com/twilgate/inhive-app) — Flutter-приложение (private; iOS код в `ios/`)
 - [TwilgateLabs/inhive-core](https://github.com/TwilgateLabs/inhive-core) — Go-ядро (sing-box 1.13 fork; iOS xcframework сборка через `make ios`)
 - [twilgate/inhive-web](https://github.com/twilgate/inhive-web) — Web (private; `inhive.ru`)
 
